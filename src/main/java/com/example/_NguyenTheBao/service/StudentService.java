@@ -1,4 +1,4 @@
-package com.example.n18020331_nguyenxuanhai_springbootapi.service;
+package com.example.18029531_NguyenTheBao.service;
 
 import com.example.n18020331_nguyenxuanhai_springbootapi.entity.Student;
 import org.springframework.stereotype.Service;

@@ -1,4 +1,4 @@
-package com.example.n18020331_nguyenxuanhai_springbootapi.repository;
+package com.example.18029531_NguyenTheBao.repository;
 
 import com.example.n18020331_nguyenxuanhai_springbootapi.entity.Student;
 import org.springframework.data.jpa.repository.JpaRepository;

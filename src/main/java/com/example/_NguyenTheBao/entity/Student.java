@@ -1,4 +1,4 @@
-package com.example.n18020331_nguyenxuanhai_springbootapi.entity;
+package com.example.18029531_NguyenTheBao.entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
